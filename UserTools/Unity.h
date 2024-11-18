@@ -179,4 +179,5 @@
 #include "MuonFitter.h"
 #include "BeamQuality.h"
 #include "BackTracker.h"
+#include "PrintDQ.h"
 #include "AssignBunchTimingMC.h"
