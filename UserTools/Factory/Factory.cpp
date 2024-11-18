@@ -171,5 +171,6 @@ if (tool=="ReadConfigInfo") ret=new ReadConfigInfo;
 if (tool=="MuonFitter") ret=new MuonFitter;
 if (tool=="BeamQuality") ret=new BeamQuality;
 if (tool=="BackTracker") ret=new BackTracker;
+if (tool=="AssignBunchTimingMC") ret=new AssignBunchTimingMC;
 return ret;
 }
