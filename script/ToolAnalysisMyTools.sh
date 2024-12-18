@@ -140,7 +140,7 @@ if [ $# -eq 0 ]; then
     echo "#  Usage: '$0 [configfileName]' or"
     echo "#         '$0 \"configfileName1,configfileName2,...\"' or"
     echo "#         '$0 [configfileName] clean'         or "
-    echo "#         '$0 \"configfileName1,configfileName2\" clean'   
+    echo "#         '$0 \"configfileName1,configfileName2\" clean'   "
     echo "###################################################################################################"
     exit 1
 fi
